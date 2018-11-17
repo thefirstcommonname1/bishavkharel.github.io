@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+  font-size: 3em;
+}
+.container {
+  width: 84%;
+  margin: 0 auto;
+}
+p {
+  margin-top: 2.5em;
+}
+
+.last-ptag {
+  margin-top: 10em;
+}
+
+.project {
+  background-color: #000080;
+  color: white;
+  font-size: 1.3em;
+}
+
+.resume {
+  background-color: #4169E1;
+  color: white;
+  font-size: 1.3em;
+}
+
+.project, .resume {
+  padding: 3px;
+  border-radius: 5px;
+  text-decoration: none;
+}
